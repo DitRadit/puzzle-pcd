@@ -1,2 +1,3 @@
-# Output Puzzle Generator
+.ipynb_checkpoints/
 puzzle_output/
+__pycache__/
